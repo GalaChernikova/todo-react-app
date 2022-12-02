@@ -1,0 +1,37 @@
+.info {
+    display: flex;
+    justify-content: space-between;
+
+    max-width:1200px;
+    width: 100%;
+
+    margin: 30px auto;
+}
+
+.infotem {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    max-width: 330px;
+    width: 100%;
+
+    padding: 20px;
+
+    border-radius: 20px;
+    box-shadow: 0px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+.infotem img {
+    display: block;
+    width: 100%;
+}
+
+h3 {
+    margin-top: 50px;
+
+    text-align: center;
+    font-weight: 400;
+    font-size: 25px;
+}

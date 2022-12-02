@@ -1,0 +1,15 @@
+.navContainer {
+    display: flex;
+    justify-content: space-evenly;
+
+    width: 1200px;
+
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+.navContainer a {
+    color: #000000;
+    font-size: 22px;
+}

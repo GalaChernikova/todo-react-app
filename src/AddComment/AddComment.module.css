@@ -1,0 +1,25 @@
+.sendComment {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+    margin-top: 10px;
+}
+
+.sendComment input {
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    background-color: #ececec;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+.sendComment button {
+    padding: 10px 20px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    background-color: #c0a0ff;
+    box-shadow: 0px 4px 8px 0px rgb(34 60 80 / 20%);
+}
