@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GalaChernikova/todo-react-app.git/static/css/main.c6d23e80.css",
+    "main.js": "/GalaChernikova/todo-react-app.git/static/js/main.5561be56.js",
+    "static/js/787.28cb0dcd.chunk.js": "/GalaChernikova/todo-react-app.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/maketodo.png": "/GalaChernikova/todo-react-app.git/static/media/maketodo.d53c42f90ea02a0b11d8.png",
+    "static/media/friends.png": "/GalaChernikova/todo-react-app.git/static/media/friends.ade6b450e25b0ce3d1f3.png",
+    "static/media/likes.png": "/GalaChernikova/todo-react-app.git/static/media/likes.7d74ca81abb700e85c0e.png",
+    "static/media/logo.png": "/GalaChernikova/todo-react-app.git/static/media/logo.a83e7f2e3d6f8411063c.png",
+    "index.html": "/GalaChernikova/todo-react-app.git/index.html",
+    "main.c6d23e80.css.map": "/GalaChernikova/todo-react-app.git/static/css/main.c6d23e80.css.map",
+    "main.5561be56.js.map": "/GalaChernikova/todo-react-app.git/static/js/main.5561be56.js.map",
+    "787.28cb0dcd.chunk.js.map": "/GalaChernikova/todo-react-app.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6d23e80.css",
+    "static/js/main.5561be56.js"
+  ]
+}
